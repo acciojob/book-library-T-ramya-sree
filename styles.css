@@ -1,30 +1,35 @@
 /*  your css code here. If applicable */
-body{
-	background-color:#f8f8f8;
-	font-family:Arial,sans-serif;
-	text-align:center;
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
-.book-library{
-	background-color:#ffffff;
-	padding20px;
+
+.book-library {
+    background-color: #ffffff;
+    padding: 20px;
 }
-.book{
-	display:inline-block;
-	width:200px;
-	margin:15px;
-	padding:15px;
-	background-color:#ffffff;
-	border:1px solid #ddd;
-	border-radius:5px;
+
+.book {
+    display: inline-block;
+    width: 200px;
+    margin: 15px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
 }
-.book img{
-	width:100%;
-	height: auto;
+
+.book img {
+    width: 100%;
+    height: auto;
 }
-.author{
-	colour:#777777;
+
+.author {
+    color: #777777;
 }
-.price{
-	color:#2ecc71;
-	font-weight: bold;
+
+.price {
+    color: #2ecc71;
+    font-weight: bold;
 }

@@ -26,10 +26,15 @@ body {
 }
 
 .author {
+    display: block;
     color: #777777;
+    margin-top: 10px;
 }
 
 .price {
+    display: block;
     color: #2ecc71;
     font-weight: bold;
+	background-color:green;
+    margin-bottom: 5px;
 }
